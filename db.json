@@ -1,0 +1,93 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "employees": [
+    {
+      "firstName": "Neeraj",
+      "lastName": "Singh",
+      "email": "1neeraj0singh@gmial.com",
+      "dob": "2023-03-07T18:30:00.000Z",
+      "phonenumber": "3456789873",
+      "education": "Diploma",
+      "company": "CAX",
+      "experience": "",
+      "package": "",
+      "id": 1
+    },
+    {
+      "firstName": "Parwinder",
+      "lastName": "singh",
+      "email": "parwinder123@gmial.com",
+      "dob": "2023-03-04T18:30:00.000Z",
+      "phonenumber": "8765456787",
+      "education": "Intermediate",
+      "company": "CAX",
+      "experience": "",
+      "package": "",
+      "id": 2
+    },
+    {
+      "firstName": "Rohit",
+      "lastName": "Khan",
+      "email": "rohitkhan@gmial.com",
+      "dob": "2023-03-12T18:30:00.000Z",
+      "phonenumber": "8273648232",
+      "education": "Matric",
+      "company": "info",
+      "experience": "",
+      "package": "",
+      "id": 3
+    },
+    {
+      "firstName": "Ram",
+      "lastName": "pal",
+      "email": "Ram@gmial.com",
+      "dob": "2023-03-12T18:30:00.000Z",
+      "phonenumber": "3724849842",
+      "education": "Graduate",
+      "company": "google",
+      "experience": "",
+      "package": "",
+      "id": 4
+    },
+    {
+      "firstName": "aman",
+      "lastName": "saini",
+      "email": "amansaini@gmial.com",
+      "dob": "2023-03-04T18:30:00.000Z",
+      "phonenumber": "234532233",
+      "education": "Matric",
+      "company": "NAN",
+      "experience": "",
+      "package": "",
+      "id": 5
+    },
+    {
+      "firstName": "Raman",
+      "lastName": "saini",
+      "email": "Raman",
+      "dob": "2023-03-04T18:30:00.000Z",
+      "phonenumber": "5484837283",
+      "education": "Diploma",
+      "company": "Relince",
+      "experience": "",
+      "package": "",
+      "id": 6
+    }
+  ]
+}
